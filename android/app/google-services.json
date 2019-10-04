@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "370232955632",
+    "firebase_url": "https://akhil-project-b1502.firebaseio.com",
+    "project_id": "akhil-project-b1502",
+    "storage_bucket": "akhil-project-b1502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370232955632:android:a3ba4d50c9d41972",
+        "android_client_info": {
+          "package_name": "com.example.cloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370232955632-pf5okecf2trmtv8iho9cerp8njrhiiah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-CHpEFh_avUeytMfe7X3O9fYVLZjuG0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
